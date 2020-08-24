@@ -1,0 +1,97 @@
+            /* SECTION TOP-BAR  */
+            
+            .top-bar {
+                background-color: #ff2a6b;
+            }
+            
+            .top-bar .row {}
+            
+            .top-bar__social-list {}
+            
+            .top-bar__social-list ul {
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: space-between;
+            }
+            
+            .top-bar__social-list li {
+                padding-right: 40px;
+            }
+            
+            .top-bar__social-list i {
+                color: #fff;
+            }
+            
+            .top-bar__links {}
+            
+            .top-bar__links button {
+                border: none;
+                background: none;
+                color: white;
+                font-weight: bold;
+                font-size: 14px;
+                cursor: pointer;
+            }
+            
+            .top-bar__links button:focus {
+                outline: 0;
+            }
+            
+            .top-bar__links span {
+                color: white;
+                font-weight: bold;
+            }
+            /* Section--top-bar  */
+            /* SECTION--NAV */
+            
+            .nav {
+                /* padding-top: 15px; */
+            }
+            
+            .nav .col {}
+            
+            .nav__link-logo {}
+            
+            .nav__logo {
+                height: 64px;
+            }
+            
+            ul.nav__menu {
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: space-between;
+                padding-top: 20px;
+            }
+            
+            ul.nav__menu li {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            
+            ul.nav__menu a {
+                text-decoration: none;
+                color: black;
+                font-weight: 600;
+            }
+            
+            .nav__menu a:hover {
+                color: #ff2a6b;
+            }
+            
+            .nav__search {
+                text-align: right;
+                padding-top: 18px;
+            }
+            
+            .nav__search button {
+                border: none;
+            }
+            
+            .nav__search i {
+                padding: 10px 8px;
+                background-color: #ff2a6b;
+                color: white;
+                border-radius: 4px;
+            }
+            
+            .nav {}

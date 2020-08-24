@@ -1,0 +1,50 @@
+                               /* SECTION FACTS */
+                               
+                               .app-footer {
+                                   background-color: ;
+                               }
+                               
+                               .app-footer .col {
+                                   width: 50%;
+                               }
+                               
+                               .app-footer__left {}
+                               
+                               .app-footer__social-links {
+                                   display: flex;
+                                   flex-flow: row nowrap;
+                                   justify-content: flex-start;
+                                   padding-top: 15px;
+                               }
+                               
+                               .app-footer__social-links li {
+                                   padding-right: 30px;
+                               }
+                               
+                               .app-footer__copyright {
+                                   font-size: 14px;
+                               }
+                               
+                               .app-footer__copyright a {
+                                   text-decoration: none;
+                                   padding-top: 15px;
+                                   color: #007bff;
+                               }
+                               
+                               .app-footer__links {
+                                   text-align: right;
+                               }
+                               
+                               .app-footer__menu {
+                                   display: flex;
+                                   flex-flow: row nowrap;
+                                   padding-bottom: 41px;
+                               }
+                               
+                               .app-footer__menu li {
+                                   padding: 0 15px;
+                               }
+                               
+                               .app-footer__menu a {
+                                   text-decoration: none;
+                               }
